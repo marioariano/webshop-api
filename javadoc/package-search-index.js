@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.webshop"},{"l":"com.webshop.configurer"},{"l":"com.webshop.controller"},{"l":"com.webshop.domain"},{"l":"com.webshop.domain.dto"},{"l":"com.webshop.mapper"},{"l":"com.webshop.repository"},{"l":"com.webshop.security"},{"l":"com.webshop.service"}];updateSearchResults();

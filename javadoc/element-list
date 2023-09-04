@@ -1,0 +1,9 @@
+com.webshop
+com.webshop.configurer
+com.webshop.controller
+com.webshop.domain
+com.webshop.domain.dto
+com.webshop.mapper
+com.webshop.repository
+com.webshop.security
+com.webshop.service
